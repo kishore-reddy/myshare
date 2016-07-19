@@ -17,3 +17,5 @@ https://cmwd01.lwsdat.glb.bskyb.com/cbs-customer-management-web/creditCalculator
 
 [ERROR] Failed to execute goal com.github.eirslett:frontend-maven-plugin:0.0.27:npm (Clean: npm mvn-clean) on project cbs-sales-web-client: Failed to run task: 'npm run mvn-clean --color=false' failed. (error code 1) -> [Help 1]
 
+hello
+
