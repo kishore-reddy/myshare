@@ -15,7 +15,7 @@ https://cmwd01.lwsdat.glb.bskyb.com/cbs-customer-management-web/creditCalculator
 
 https://cmwd01.lwsdat.glb.bskyb.com/cbs-customer-management-web/creditCalculator/?ticket=ST-480-9ePz0slVw6tpEsaZ2NYL-udcsg13a
 
-
-hello
-hello2
+wget http://chrome.richardlloyd.org.uk/install_chrome.sh
+chmod u+x install_chrome.sh
+sudo ./install_chrome.sh
 
